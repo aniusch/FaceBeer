@@ -3,7 +3,7 @@ Controle automatizado de torneiras usando ESP8266, servos e sensor de fluxo, com
 
 ## Diagrama de Hardware
 
-![Diagrama de Hardware](docs/ilustracao-hardware.png)
+![Diagrama de Hardware](docs/ilustração-hardware.png)
 
 ## Funcionalidades
 
