@@ -3,8 +3,8 @@
 #include <Servo.h>
 
 // CONFIG Wi-Fi
-const char* ssid = "Gabriel-2.4Ghz";
-const char* password = "amaral123";
+const char* ssid = "sua net";
+const char* password = "sua net";
 
 // Servo da torneira principal
 Servo torneira;
